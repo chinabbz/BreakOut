@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\code\pacman\pacman\game.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\code\pacman\pacman\game.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+c:\code\pacman\pacman\game.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+  Pacman.vcxproj -> C:\Code\Pacman\Debug\Pacman.exe
